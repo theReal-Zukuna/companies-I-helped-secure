@@ -1,5 +1,9 @@
 # companies-I-helped-secure
 
+1 owner ATO
+2 cross-tenant data leakage/deletion
+2 permanent vertical privilege escalation (manager to owner, manager to manager with full permissions)
+
 Cake.com (Plaky + Clockify) 2 vulnerabilities<br>
 Quality Unit (LiveAgent + PostAffiliatePro) 6 + 4 vulnerabilities<br>
 Hubstaff (Hubstaff time tracking + Hubstaff Tasks) 14 vulnerabilities combined<br>
