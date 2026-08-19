@@ -1,6 +1,6 @@
 # companies-I-helped-secure
 
-1 owner ATO<br>
+2 owner ATO<br>
 2 cross-tenant data leakage/deletion<br>
 2 permanent vertical privilege escalation (manager to owner, manager to manager with full permissions)<br>
 
